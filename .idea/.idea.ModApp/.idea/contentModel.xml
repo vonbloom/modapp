@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Modules" t="Include">
+          <e p="A" t="Include">
+            <e p="ModuleA.cs" t="Include" />
+          </e>
+          <e p="B" t="Include">
+            <e p="ModuleB.cs" t="Include" />
+          </e>
+        </e>
+        <e p="NewBehaviourScript.cs" t="Include" />
+      </e>
+      <e p="ModApp.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="/var/folders/zd/mk4r7m957n12zlmwxf4kxcrw0000gq/T/Toolbox-TUcQSw/idea.system.path/extResources" t="IncludeRecursive" />
+    <e p="/var/folders/zd/mk4r7m957n12zlmwxf4kxcrw0000gq/T/Toolbox-TUcQSw/idea.system.path/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_ModApp.1367292289.00" t="ExcludeRecursive" />
+  </component>
+</project>
